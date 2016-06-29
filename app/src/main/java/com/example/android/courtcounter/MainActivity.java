@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+
     int scoreA;
     int scoreB;
 
